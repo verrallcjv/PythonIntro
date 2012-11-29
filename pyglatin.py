@@ -1,0 +1,1 @@
+var = raw_input ('prompt')
